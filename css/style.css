@@ -31,8 +31,7 @@ body, p, blockquote p {
   font-family: Palatino, georgia, 'times new roman', serif;
   */
   /*font-family: 'times new roman', serif;*/
-  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',
- Meiryo, sans-serif;
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-size: 16px;
   line-height: 25px;
 }
@@ -43,7 +42,8 @@ blockquote p {
 }
 
 a {
-  color: #830242;
+  /*color: #830242;*/
+  color: #0099FF;
 }
 
 .chromeframe {
@@ -86,7 +86,8 @@ a {
 nav ul li, 
 footer,
 footer p {
-  font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-size: 13px;
   line-height: 18px;
 }
@@ -98,7 +99,8 @@ nav ul.nav.nav-tabs li {
 nav ul.nav.nav-tabs li a.active {
   color: #000;
   font-weight: bold;
-  font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 }
 
 footer {
@@ -136,7 +138,8 @@ footer a, footer a:hover {
 }
 
 #dailybread .db-area-title h3 {
-  font-family: "OpenSansSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "OpenSansSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-size: 11px;
   line-height: 13px;
 }
@@ -200,12 +203,14 @@ footer a, footer a:hover {
 }
 
 #bubbletree .desc {
-  font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-size: 11px;
   line-height: 13px;
 }
 
 #bubbletree .amount {
-  font-family: Palatino, georgia, 'times new roman', serif;
+  /*font-family: Palatino, georgia, 'times new roman', serif;*/
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
   font-size: 14px;
 }
