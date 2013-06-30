@@ -16,9 +16,7 @@ OpenSpending.year = '2013';
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
-  /* yokohama cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  /* koganei cofog */
+  '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費
+  '101': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費 議会費
 };
-
-
