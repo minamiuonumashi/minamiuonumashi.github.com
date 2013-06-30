@@ -10,14 +10,16 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'jptokyochofubudget';
-OpenSpending.year = '2013';
+OpenSpending.identifier = 'yokohama_budget';
+OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
   /* chofu cofog */
+  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1': { icon: 'icons/legislative.svg', color: '#0099FF', bcolor: '#935B3B' }, // 議会費
   '101': { icon: 'icons/legislative.svg', color: '#0099FF', bcolor: '#935B3B' }, // 議会費 議会費
   '2': { icon: 'icons/publicaffairs.svg', color: '#0099FF', bcolor: '#0AB971' }, // 総務費
