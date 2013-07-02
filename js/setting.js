@@ -23,7 +23,6 @@ OpenSpending.Styles.Cofog = {
   '2': { icon: 'icons/publicaffairs.svg', color: '#0099FF', bcolor: '#0AB971' }, // 総務費
   '201': { icon: 'icons/publicaffairs.svg', color: '#0099FF', bcolor: '#0AB971' }, // 総務費 総務費
   '3': { icon: 'icons/family.svg', color: '#0099FF', bcolor: '#4E6D00' }, // 民生費
-  '301': { icon: 'icons/family.svg', color: '#0099FF', bcolor: '#4E6D00' }, // 民生費 民生費
   '4': { icon: 'icons/health.svg', color: '#0099FF', bcolor: '#D33673' }, // 衛生費
   '401': { icon: 'icons/health.svg', color: '#0099FF', bcolor: '#D33673' }, // 衛生費 衛生費
   '5': { icon: 'icons/environment.svg', color: '#0099FF', bcolor: '#2A3A03' }, // 労働費
