@@ -29,9 +29,8 @@ OpenSpending.Styles.Cofog = {
   '9': { icon: 'icons/order-safety.svg', color: '#0099FF', bcolor: '#D33673' }, // 消防費
   '10': { icon: 'icons/schools.svg', color: '#0099FF', bcolor: '#790586' }, // 教育費
   '11': { icon: 'icons/economic-aid.svg', color: '#0099FF', bcolor: '#D36B3B' }, // 公債費
-  '12': { icon: 'icons/money.svg', color: '#0099FF', bcolor: '#935B3B' }, // 諸支出金
-  '13': { icon: 'icons/financial-admin.svg', color: '#0099FF', bcolor: '#C35B4B' }, // 予備費
-  '14': { icon: 'icons/construction.svg', color: '#0099FF', bcolor: '#C35B4B' }, // 災害復旧費
+  '12': { icon: 'icons/financial-admin.svg', color: '#0099FF', bcolor: '#C35B4B' }, // 予備費
+  '13': { icon: 'icons/construction.svg', color: '#0099FF', bcolor: '#935B3B' }, // 災害復旧費
   };
   
   
