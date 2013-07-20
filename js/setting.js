@@ -31,6 +31,7 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/economic-aid.svg', color: '#0099FF', bcolor: '#D36B3B' }, // 公債費
   '12': { icon: 'icons/money.svg', color: '#0099FF', bcolor: '#935B3B' }, // 諸支出金
   '13': { icon: 'icons/financial-admin.svg', color: '#0099FF', bcolor: '#C35B4B' }, // 予備費
+  '14': { icon: 'icons/construction.svg', color: '#0099FF', bcolor: '#C35B4B' }, // 災害復旧費
   };
   
   
